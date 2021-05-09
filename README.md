@@ -1,1 +1,1 @@
-# BitcoinIndexPrice
+# BitcoinPriceIndex
